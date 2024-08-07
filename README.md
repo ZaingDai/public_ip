@@ -1,2 +1,3 @@
-# public_ip
-A simple program that shows the public IP of the actual device
+# Public IP
+
+A simple program that displays the public IP of the actual network.
